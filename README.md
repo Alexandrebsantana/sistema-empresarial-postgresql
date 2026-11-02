@@ -200,8 +200,4 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
 [LinkedIn](https://www.linkedin.com/in/alexandre-barros-santana/) | [GitHub](https://github.com/Alexandrebsantana)
 
-## Autor
 
-Alexandre Barros Santana  
-[LinkedIn](https://www.linkedin.com/in/alexandre-barros-santana/)  
-[GitHub](https://github.com/Alexandrebsantana)
